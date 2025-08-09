@@ -5,7 +5,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400" alt="Backend Developer">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpjZjQxNjF0dzYwbW5yZWphM3I1bWcxdDdkMGtmYnVpN3F4Z3V3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Backend Developer">
 </p>
 
 ---
@@ -37,12 +37,6 @@
 
 ---
 
-## 🔥 Streak Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=parijat1222q&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📫 Connect With Me  
 <p align="center">
