@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**parijat1222q/parijat1222q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Parijat Biswas
 
-Here are some ideas to get you started:
+🚀 **Backend Developer | B.Tech CSE Student | Problem Solver**  
+Passionate about building efficient, scalable, and secure backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Languages:** C, C++, Java, JavaScript, Python  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Platforms:** Git, GitHub, Linux, VS Code, Docker  
+- **Other:** REST APIs, Authentication, Deployment
+
+---
+
+## 📈 GitHub Stats
+![Parijat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParijatBiswas&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParijatBiswas&layout=compact&theme=radical)
+
+---
+
+## 💡 About Me
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering**  
+- 🖥 Specializing in **Backend Development & API design**  
+- 🌱 Learning **Cloud Deployment & Microservices**  
+- 💬 Ask me about backend development, database design, and API optimization  
+- ⚡ Fun fact: I love debugging more than coding (weird, I know 😄)
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+
+---
+
+💙 _"Code is like humor. When you have to explain it, it’s bad."_  
+
