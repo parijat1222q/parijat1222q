@@ -29,14 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parijat1222q&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parijat1222q&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 
 ## 📫 Connect With Me  
 <p align="center">
@@ -54,4 +46,4 @@
 
 ---
 
-⭐ **_"Code is like humor. When you have to explain it, it’s bad."_** ⭐
+⭐ **_"There is always one more bug to fix."_** ⭐
