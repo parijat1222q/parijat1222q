@@ -10,7 +10,8 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
+- [I’m currently working on [Inferred](https://parijat1222q.github.io/INFERRED)
 - 💻 Backend Developer passionate about **APIs, Databases, and Scalable Systems**  
 - 🔧 Experienced with **Node.js, Express.js, MongoDB, SQL**  
 - ☁ Exploring **Cloud Deployment & DevOps Tools**  
